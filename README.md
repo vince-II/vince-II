@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vince Nery II</h1>
 <h3 align="center">A coffee-loving software developer from Sydney, Australia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vince-ii&label=Profile%20views&color=0eb47d&style=flat" alt="vince-ii" /> </p>
-
 - 🔭 I’m currently working on **Pulse Metric**
 
 - 🌱 I’m currently learning **Vue Typescript, Go + GoFiber**
