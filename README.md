@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vince Nery II</h1>
 <h3 align="center">A coffee-loving software developer from Sydney, Australia</h3>
 
-- 🔭 I’m currently working on **Pulse Metric**
+- 🔭 I’m currently working on **Chat App Clone in NET & C#**
 
 - 🌱 I’m currently learning **Vue Typescript, Go + GoFiber**
 
