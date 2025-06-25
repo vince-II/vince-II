@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vince Nery II</h1>
 <h3 align="center">A coffee-loving software developer from Sydney, Australia</h3>
 
-- 🔭 I’m currently working on **Chat App Clone in NET & C#**
+- 🌱 I’m currently learning **React Typescript, Go + GoFiber**
 
-- 🌱 I’m currently learning **Vue Typescript, Go + GoFiber**
-
-- 👨‍💻 All of my projects are available at [https://portfolio-vue-app.vercel.app/](https://portfolio-vue-app.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://mydevvince.vercel.app/](https://mydevvince.vercel.app/)
 
 - 📫 How to reach me **mydevvince@gmail.com**
 
