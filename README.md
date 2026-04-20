@@ -9,9 +9,3 @@
 
 - ⚡ Fun fact **Mechanical Keyboard Enthusiast and Getting into the Hobby of Dungeons and Dragons**
 
-## Connect with me!
-<p align="left">
-<a href="https://dev.to/vince-ii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vince-ii" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vincenery-ii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vincenery-ii/" height="30" width="40" /></a>
-<a href="https://discord.gg/calixe_pls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="calixe_pls" height="30" width="40" /></a>
-</p>
